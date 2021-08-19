@@ -1,0 +1,60 @@
+.header_div
+{
+    background:rgb(41, 235, 89);
+    color: rgb(0, 0, 0);
+}
+.header_div img{
+    width:100px;
+}
+    
+.main_div {
+    background:turquoise ;
+    padding: 10px;
+    margin-top: 10px;
+    border: 3px solid lightblue;
+}
+.main_div label {
+    background:rgb(245, 181, 6) ;
+    padding: 10px;
+    margin-bottom: 0px;
+    width: 300px;
+    box-shadow:5px 5px 18px rgb(45, 47, 49);
+}
+.main_div button{
+    width: 300px;
+    box-shadow:5px 5px 18px rgb(45, 47, 49);
+    font-size:20px;
+    border: 3px solid;
+}
+#camera,#result{
+    width: 300px;
+    box-shadow:5px 5px 18px rgb(45, 47, 49);
+    font-size:20px;
+    border: 3px solid rgb(0, 0, 0);
+    height: 300px;
+}
+.footer10{
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    position: fixed;
+    bottom: 0;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h2{
+    background: cadetblue;
+    border-radius: 5px;
+    padding: 25px;
+    box-shadow:5px 5px 18px rgb(45, 47, 49);
+}
+.footer_div img{
+    width: 50px;
+}
+
+img {
+float: left;
+
+}
